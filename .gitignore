@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+target
+.gitignore
+zcy-test-git.iml
+.idea/workspace.xml
+src/main/resources/
+src/test/
+target/
